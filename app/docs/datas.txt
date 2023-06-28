@@ -1,0 +1,47 @@
+Start of Commons
+
+How old are you?
+
+How often would you like to trian?
+
+Where would you like to do the exerciese?
+
+How many people is the training for?
+
+When would you like to train?
+you can indicate more than one time slot
+
+What is your goals?
+how often do you exercise?
+ 
+When do you need the service?
+
+do you have any health problems?
+
+What type of property needs cleaning?
+
+How ofthen do you need cleaning?
+
+How many bedrooms need cleaning?
+How many bathrooms need cleaning?
+
+How many reception rooms need cleaning?
+Includes Lounge or dining room
+
+What type of cleaning would you like?
+
+When are the best days for cleaning?
+
+Will you be supplying cleaning materials and equipment?
+
+How likely are you to make a hiring decision?
+
+
+Where do you neeed the cleaner?
+The postcode or town for the address where you want the Cleaner.
+You have to input your postcode or town
+ 
+What is your email address
+You have to input this to verify you
+
+End of common Questions

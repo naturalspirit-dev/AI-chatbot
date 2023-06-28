@@ -1,0 +1,181 @@
+Start of Common Questions
+
+Question
+How old are you?
+Options
+- Less than 18
+- from 18 to 22
+- from 23 to 30
+- from 31 to 40
+- from 41 to 50
+- from 51 to 60
+- More than 60
+
+Question
+How often would you like to trian?
+Options
+- 1 time a week
+- 2 times a week
+- 3 times a week
+- More than 3 times a week
+- I don't know, I would like some advice from the Personal Trainer
+
+Question
+Where would you like to do the exerciese?
+Options
+- In the gym
+- At my home
+- Outdoors
+- In a place recommended by the Personal Trainer
+- Online
+
+Question
+How many people is the training for?
+Options
+- Individual training
+- Pair training
+- Group training
+
+Question
+When would you like to train?
+you can indicate more than one time slot
+Options
+- Early morning before 9 Apartment
+- Morning between 9 and 12
+- Early afternoon between 1 and 15
+- Late afternon between 3 and 6pm
+- Evening after 6pm
+
+Question
+What is your goals?
+Options
+- Keep fit and tone up
+- Lose weight
+- Increase muscle mass
+- Improve performance
+- Post traumatic recovery
+- Improve posture
+- or input your specific goal
+
+Question
+What is your gender?
+Options
+- Male
+- Female
+
+Question
+how often do you exercise?
+Options
+- I don't do physical actiity
+- Activity 1 or 2 times a week
+- Activity more than 3 times a week
+
+Question 
+When do you need the service?
+Options
+- Within 2 days
+- WIthin 7 days
+- With in 15 days
+- In 30 days
+- don't have an exact date
+
+do you have any health problems?
+Options
+- Asthma
+- Back problems
+- Joint problems
+- Other specify user can input
+
+Question
+What type of property needs cleaning?
+Options
+- Bungalo
+- Commercial property
+- Flat or Apartment
+- House
+
+Question
+How ofthen do you need cleaning?
+Options
+- Daily
+- Twice a week
+- Weekly
+- Every other week
+- Once a month
+- One-time clean
+
+Question
+How many bedrooms need cleaning?
+Options
+- 0 bedroom
+- 1 bedroom
+- 2 bedrooms
+- 3 bedrooms
+- 4 bedrooms
+- 5+ bedrooms
+- Studio
+
+Question
+How many bathrooms need cleaning?
+Options
+- 1 bathroom
+- 1 bathroom + 1 additional toilet
+- 2 bathrooms
+- 3 bathrooms
+- 4+ bathroioms
+
+Question
+How many reception rooms need cleaning?
+Includes Lounge or dining room
+Options
+- 0
+- 1
+- 2
+- 3
+- 4+
+
+Question
+What type of cleaning would you like?
+Options
+- Standard cleaning
+- Deep cleaning
+- Move-out cleaning
+
+Question
+When are the best days for cleaning?
+Options
+- Any 
+- Monday
+- Tuesday
+- Wednesday
+- Thursday
+- Friday
+- Saturaday
+- Sunday
+- I don't know
+
+Question
+Will you be supplying cleaning materials and equipment?
+Options
+- Yes
+- NoT
+
+Question
+How likely are you to make a hiring decision?
+Options
+- I'm ready to hire now
+- I'm definitely going to hire someone
+- I'm likely to hire someone
+- I'm planning and researching
+
+
+Question
+Where do you neeed the cleaner?
+The postcode or town for the address where you want the Cleaner.
+You have to input your postcode or town
+
+Question 
+What is your email address
+You have to input this to verify you
+
+End of common Questions

@@ -1,0 +1,31 @@
+<!doctype html>
+<title>Hello from Flask</title>
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+<script>
+    $(document).ready(function () {
+        $("#submit-btn").click(function () {
+            var inputVal = $("#input-field").val();
+            $.ajax({
+                url: "/general-chats/",
+                type: "POST",
+                data: {
+                    user_input: inputVal
+                },
+                success: function (response) {
+                    $("#response").val(response);
+                },
+                error: function (xhr, status, error) {
+                    alert("Error: " + error);
+                }
+            });
+        });
+    });
+</script>
+<label>{{result}}</label>
+<br><br>
+<label for="input-field">Enter some text:</label>
+<input type="text" id="input-field">
+<button id="submit-btn">Submit</button>
+<br><br>
+<label for="response">Response:</label>
+<textarea id="response" rows="5" cols="50"></textarea>
