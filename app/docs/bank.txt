@@ -1,0 +1,30 @@
+The bank I am explain is in United states
+Everyday bank got pofit more than 2k
+
+There are 5 peoples who can know about profit of this bank
+
+name: Daniel lee
+phonenumber: 123456789
+email: daniellee@gmail.com
+passowrd: 123456
+
+
+name: Roman morris
+phonenumber: 123456789
+email: daniellee@gmail.com
+passowrd: 123456
+
+name: Lev ivachenco
+phonenumber: 123456789
+email: daniellee@gmail.com
+passowrd: 123456
+
+name: lucas
+phonenumber: 123456789
+email: daniellee@gmail.com
+passowrd: 123456
+
+name: Dene
+phonenumber: 123456789
+email: daniellee@gmail.com
+passowrd: 123456
